@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.proazrin.moodlemobile" version="3.4.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.0">
   <name>eLearn Mobile Learning</name>
   <description>
-        Moodle Mobile official app
+        eLearn Mobile Learning is mobile version for IMU eLearn.
     </description>
   <author href="http://moodle.com" email="mobile@moodle.com">
-        eLearn Mobile Learning is a complementary application to the web version of eLearn learning platform.
-    </author>
+        e-Learning Developer
+  </author>
   <content src="index.html"/>
   <access origin="*"/>
   <access origin="tel:*" launch-external="yes"/>
-  <access origin="mailto:mohdazrin@imu.edu.my" launch-external="yes"/>
+  <access origin="mailto:*" launch-external="yes"/>
   <access origin="geo:*" launch-external="yes"/>
   <allow-navigation href="cdvfile:*"/>
   <allow-navigation href="content:*"/>
